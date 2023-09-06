@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "alwaysStrict": true,
+        "strict": true,
+        "noEmit": true,
+    },
+    "files": [
+        "lib/core.js",
+        "lib/extended.js",
+    ]
+}
