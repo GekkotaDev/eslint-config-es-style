@@ -1,5 +1,5 @@
 {
-  "name": "@gekkotadev/eslint-config-es-style",
+  "name": "@gekkota/eslint-config-es-style",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
